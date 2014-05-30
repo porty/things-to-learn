@@ -5,6 +5,7 @@ Things I need to learn:
 
 # JavaScript
 
+ * Jasmine + Karma (testing)
  * Angular
  * React
  * Flight
