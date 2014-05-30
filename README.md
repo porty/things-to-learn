@@ -44,7 +44,6 @@ Things I need to learn:
  * BDD, expectations, mocks vs. stubs, cucumber/gherkin scripts
  * Read POODR by Sandi Metz
  * Rails
- * Capistrano
  * Unicorn
 
 # Phone dev
@@ -63,7 +62,8 @@ Things I need to learn:
    * Installation of Win7/2008
    * Live boot of Linux OS
      * Raspberry Pi
- * Ansible
+ * Infrastructure automation: Ansible/Chef/Puppet (book: [Taste Test: Puppet, Chef, SaltStack, Ansible](https://devopsu.com/books/taste-test-puppet-chef-salt-stack-ansible.html))
+ * Capistrano
 
 # Data
 
