@@ -6,14 +6,16 @@ Things I need to learn:
 # JavaScript
 
  * Jasmine + Karma (testing)
- * Angular
- * React
  * Flight
+ * Promises
+ * React 
+ * Angular
+ * JQuery
  * WebGL?
  * [ChainyJS](https://github.com/chainyjs/chainy)
  * WebRTC
    * rtc.io ?
- * JQuery
+ 
 
 ## Node.js
 
@@ -38,10 +40,11 @@ Things I need to learn:
 
 # Ruby
 
+ * BDD, expectations, mocks vs. stubs, cucumber/gherkin scripts
+ * Read POODR by Sandi Metz
  * Rails
  * Capistrano
  * Unicorn
- * BDD, expectations, mocks vs. stubs, cucumber/gherkin scripts
 
 # Phone dev
 
