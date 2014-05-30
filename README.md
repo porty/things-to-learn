@@ -5,6 +5,7 @@ Things I need to learn:
 
 # JavaScript
 
+ * JavaScript language basics and inheritance ([Crockford](http://yuiblog.com/crockford/), [The Good Parts](http://shop.oreilly.com/product/9780596517748.do))
  * Jasmine + Karma (testing)
  * Flight
  * Promises
