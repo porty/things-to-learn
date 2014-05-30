@@ -13,7 +13,6 @@ Things I need to learn:
  * WebRTC
    * rtc.io ?
  * JQuery
- * 
 
 ## Node.js
 
@@ -31,9 +30,10 @@ Things I need to learn:
  * Web Components
  * Canvas
  * Bootstrap
+ * Foundation
+ * Bootstrap vs. Foundation
  * Alternatives to Bootstrap (whatever they are)
  * Responsive pages
- * 
 
 # Ruby
 
