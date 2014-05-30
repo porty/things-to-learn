@@ -5,6 +5,7 @@ Things I need to learn:
 
 # JavaScript
 
+ * JavaScript language basics and inheritance ([Crockford](http://yuiblog.com/crockford/), [The Good Parts](http://shop.oreilly.com/product/9780596517748.do))
  * Jasmine + Karma (testing)
  * Flight
  * Promises
@@ -43,7 +44,6 @@ Things I need to learn:
  * BDD, expectations, mocks vs. stubs, cucumber/gherkin scripts
  * Read POODR by Sandi Metz
  * Rails
- * Capistrano
  * Unicorn
 
 # Phone dev
@@ -62,7 +62,8 @@ Things I need to learn:
    * Installation of Win7/2008
    * Live boot of Linux OS
      * Raspberry Pi
- * Ansible
+ * Infrastructure automation: Ansible/Chef/Puppet (book: [Taste Test: Puppet, Chef, SaltStack, Ansible](https://devopsu.com/books/taste-test-puppet-chef-salt-stack-ansible.html))
+ * Capistrano
 
 # Data
 
