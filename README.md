@@ -64,6 +64,9 @@ Things I need to learn:
      * Raspberry Pi
  * Infrastructure automation: Ansible/Chef/Puppet (book: [Taste Test: Puppet, Chef, SaltStack, Ansible](https://devopsu.com/books/taste-test-puppet-chef-salt-stack-ansible.html))
  * Capistrano
+ * yum repos + rpm packaging
+ * apt repos + deb packaging
+ * msi packaging
 
 # Data
 
