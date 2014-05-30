@@ -40,6 +40,7 @@ Things I need to learn:
  * Rails
  * Capistrano
  * Unicorn
+ * BDD, expectations, mocks vs. stubs, cucumber/gherkin scripts
 
 # Phone dev
 
