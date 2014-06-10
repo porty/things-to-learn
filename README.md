@@ -5,7 +5,10 @@ Things I need to learn:
 
 # JavaScript
 
- * JavaScript language basics and inheritance ([Crockford](http://yuiblog.com/crockford/), [The Good Parts](http://shop.oreilly.com/product/9780596517748.do))
+ * JavaScript language basics and inheritance 
+   * ([Crockford](http://yuiblog.com/crockford/), [The Good Parts](http://shop.oreilly.com/product/9780596517748.do))
+   * https://www.youtube.com/watch?v=JxAXlJEmNMg&list=PLZ9KtUWEZVbCP8tQ8B6KcoHx3DObOSGHt
+   * https://github.com/getify/You-Dont-Know-JS
  * Jasmine + Karma (testing)
  * Flight
  * Promises
